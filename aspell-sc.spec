@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Sardinian dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik sardyñski (lista s³ów) dla aspella.
+S³ownik (lista s³ów) sardyñski dla aspella.
 
 %prep
 %setup -q -n aspell5-sc-%{version}
