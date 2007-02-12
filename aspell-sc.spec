@@ -1,5 +1,5 @@
 Summary:	Sardinian dictionary for aspell
-Summary(pl.UTF-8):   Słownik sardyński dla aspella
+Summary(pl.UTF-8):	Słownik sardyński dla aspella
 Name:		aspell-sc
 Version:	1.0
 #%%define	subv	0
