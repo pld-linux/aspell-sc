@@ -1,5 +1,5 @@
 Summary:	Sardinian dictionary for aspell
-Summary(pl):	S≥ownik sardyÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik sardy≈Ñski dla aspella
 Name:		aspell-sc
 Version:	1.0
 #%%define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Sardinian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik sardyÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik sardy≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-sc-%{version}
